@@ -1,0 +1,17 @@
+{
+    "cloudflare_token"          : "SOME LONG TOKEN",
+    "region"                    : "eu-west-2",
+    "identity_domain"           : "sometenant.onmicrosoft.com",
+    "api_subdomain"             : "keybase",
+    "api_domain"                : "rhysevans.co.uk",
+
+    "keybase_displayname"       : "Rhys Evans Company",
+    "keybase_brandcolor"        : "#FFB800",
+    "keybase_description"       : "Random test config",
+    "keybase_version"           : "1",
+
+    "oauth_validation_audience" : "05ce67d2-a56e-4ba9-bf92-63128a0cc2b9",
+    "oidc_uri"                  : "https://login.microsoftonline.com/3d0ae9ec-8258-4e43-9022-9dd4d3845c6c/v2.0/.well-known/openid-configuration"
+    
+    
+}
